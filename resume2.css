@@ -1,0 +1,101 @@
+html, body, footer {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+   left:0px;
+   bottom:0px;
+   height:100px;
+   width:100%;
+}
+
+p, td, li, address {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+th {
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: 'Playfair+Display', normal;
+  font-weight: 800;
+}
+
+h3, th {
+  font-family: 'Playfair+Display+', normal;
+  font-weight: 500;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.column1 {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#canvas {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 75px;
+  }
+
+.navbar1 {
+  overflow: hidden;
+  background-color: #d5e2d3;
+  margin-top: 10px;
+}
+
+.navbar1 a {
+  float: right;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 16px;
+}
+
+ .navbar1 a.left1 {
+  float: left;
+  font-size: 20px;
+ }
+
+.navbar1 a.Portfolio {
+  text-decoration: underline;
+}
+ 
+ iframe {
+  height: 704px;
+  width: 544px;
+  padding-bottom: 20px
+ }  
+
+ img {
+  width: 300px;
+ }
+
+#button {
+  background-color: rgba(255,255,255,0);
+  size: 30px;
+  border: none;
+  float: right;
+  width: 50%;
+}
+
+#footertable { 
+ margin-left: auto;
+ margin-right: auto;
+}
