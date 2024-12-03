@@ -1,0 +1,188 @@
+html, body, footer {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+   left:0px;
+   bottom:0px;
+   height:100px;
+   width:100%;
+}
+
+p, td, li, address {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+th {
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: 'Playfair+Display', normal;
+  font-weight: 800;
+  margin-top: 70px;
+}
+
+h3, th {
+  font-family: 'Playfair+Display+', normal;
+  font-weight: 500;
+}
+
+hr {
+  margin-top: auto;
+  margin-bottom: auto;
+  border: 0;
+  clear:both;
+  display:block;
+  width: 100%;               
+  background-color: gray;
+  height: 1px;
+}
+
+#Education1 p {
+  margin: 4px;
+}
+
+#Education1, #Achievements1 {
+  margin-bottom: 70px;
+}
+
+#Education, #Experience, #Achievements {
+  width: 100%;
+}
+
+#Education td.data1 {
+  text-align: left;
+}
+
+#Education td.data2 {
+  text-align: right;
+}
+
+#Experience ul, p {
+  margin: 4px
+}
+
+#Experience td.data11 {
+  text-align: left;
+}
+
+#Experience td.data22 {
+  text-align: right;
+}
+
+#Achievements td.data12 {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+#Achievements td.data23 {
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+#Achievements tr {
+  margin: 15px;
+}
+
+#Skills {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#Experience1 {
+  margin-top:0px;
+  margin-bottom: 70px;
+}
+
+#Achievements {
+  margin-top:0px;
+  margin-bottom: 70px;
+}
+
+#canvas {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.column1 {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#canvas {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 75px;
+  }
+
+.navbar1 {
+  overflow: hidden;
+  background-color: #d5e2d3;
+  margin-top: 10px;
+}
+
+.navbar1 a {
+  float: right;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 16px;
+}
+
+ .navbar1 a.left1 {
+  float: left;
+  font-size: 20px;
+ }
+
+.navbar1 a.AboutMe {
+  text-decoration: underline;
+}
+
+ #Biography .p {
+  float: left;
+  margin-right: 20px;
+ }
+
+ .Biocolumn {
+  float: left;
+  width: 53%;
+  margin-right: 5px;
+}
+
+.Biocolumn1 {
+  float: right;
+  width: 45%;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+ 
+#button {
+  background-color: rgba(255,255,255,0);
+  size: 30px;
+  border: none;
+  float: right;
+  width: 50%;
+}
+
+#footertable { 
+ margin-left: auto;
+ margin-right: auto;
+}
+
