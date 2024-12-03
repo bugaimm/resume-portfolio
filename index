@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="resume2.css">
+<head>
+	<meta property="og:title" content="Minful Gormet Mockup">
+	<meta property="og:url" content="https://www.figma.com/design/RYf2nKigNRF2xaOrfVksts/Mindful-Gourmet-Mockups?node-id=188-11&t=c2hC0X4IUNYuRuO2-1" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="Figma files intended for our client of our final report, visual guide, and desktop and mobile website" />
+	<meta property="og:image" content="MindfulGourmet.png" />
+	<h1 style="background-color: #d5e2d3; padding: 14px; margin: 0px; margin-bottom: -20px">Madelyn Bugai</h1>
+</head>
+	
+	<title>Madelyn Bugai Website</title>
+	
+	
+	<body >
+	<nav class="navbar1">
+			<a class="left1">Professional Writer</a>
+			<a class="Portfolio" href="PersonalWebsiteSecondPage.html">Portfolio</a>
+			<a class="AboutMe" href="PersonalWebsite.html">About Me</a>
+	</nav>
+	
+
+<div id=canvas>
+	<h2 style="margin-top: -20px">Portfolio</h2>
+		<h3>Content Audits & Strategy Plans</h3>
+		<h4 style="margin-bottom: -5px">Content and Usability Audit on Vive Organice for PWRT 7045 Web Design, <em>2024</em></h4>
+		<p>Description and analysis of Vive Organic's website's creators, content, usability, and deceptive practices.</p>
+		<iframe class="frame" src="7045 Content and Usability Audit.pdf" frameborder="0"></iframe>
+		<h4>Mindful Gourmet Report for ENG 411, <em>2024</em></h4>
+		<p>Deliverables within a report that synthesizes research findings. Completed with four other peers.</p>
+		<iframe class="frame" src="Mindful Gourmet Mockups.pdf" frameborder="0"></iframe>
+		<h4>Final Content Strategy Plan for the Black Menances for ENG 224, <em>2022</em></h4>
+		<p>Semester-long research that resulted in a mock-up content strategy plan to encourage digital circulation and engagement.</p>
+		<iframe class="frame" src="Final Content Strategy Plan WEB.pdf" frameborder="0"></iframe>
+
+		<h3>Promotional Materials</h3>
+		<h4>What's Next? Flyers for UC IPALs</h4>
+		<img src="December.png" width="300px">
+		<img src="November.png" width="300px">
+		<img src="October.png" width="300px">
+		<img src="September.png" width="300px">
+
+		<h3>Editing</h3>
+		<h4>Copyediting a White Paper for PWRT 6024, <em>2024</em></h4>
+		<iframe src="Copyediting.pdf" frameborder="0"></iframe>
+		<h4>Copyediting Midterm for ENG 412, <em>2023</em></h4>
+		<p>Timed copyediting midterm from 2023. I have gone back and corrected any errors I missed in my first attempt.</p>
+		<iframe src="Updated412Midterm.pdf" frameborder="0"></iframe>
+		<h4>Synthetic Minds for ENG 412, <em>2023</em></h4>
+		<p>Compilation of edited student work. Theme and visuals created by myself and two peers.</p>
+		<iframe src="Ebook Project (2).pdf" frameborder="0"></iframe>
+
+</div>	
+
+<div>
+		<footer style="background-color: #d5e2d3; font-size: 10px; margin: 0px; padding: 0px; border: none;">
+				<table id="footertable">	
+					<tr>
+						<td><a style="align-content: center;" href="https://www.linkedin.com/in/madelynbugai/">
+							<button id="button" type="button">
+							<img style="width: 35px" src="LinkedIn1.png">
+							</button>
+							</a>
+						</td>
+
+						<td><a href="mailto: bugaimm@mail.uc.edu">
+							<button id="button" type="button">
+							<img style="width: 35px" src="email.png">
+							</button>
+							</a>
+						</td>
+					</tr>
+				</table>
+		</footer>	
+</div>
+</body>	
+
+		
+</html>
