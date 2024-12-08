@@ -38,11 +38,6 @@ h3, th {
   font-weight: 500;
 }
 
-table {
-  display: table-cell; vertical-align: top;
-  border-spacing: 20px;
-}
-
 #table td, th {
   text-align: left;
   display: table-cell; vertical-align: top;
