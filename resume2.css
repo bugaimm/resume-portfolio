@@ -3,6 +3,14 @@ html, body, footer {
   padding: 0;
 }
 
+#canvas {
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 75px;
+  margin-right: auto;
+  margin-left: auto;
+  }
+
 footer {
    left:0px;
    bottom:0px;
@@ -28,6 +36,20 @@ h1, h2 {
 h3, th {
   font-family: 'Playfair+Display+', normal;
   font-weight: 500;
+}
+
+table {
+  display: table-cell; vertical-align: top;
+  border-spacing: 20px;
+}
+
+#table td, th {
+  text-align: left;
+  display: table-cell; vertical-align: top;
+}
+
+table #top {
+  display: table-cell; vertical-align: top;
 }
 
 .column {
@@ -99,3 +121,4 @@ h3, th {
  margin-left: auto;
  margin-right: auto;
 }
+
